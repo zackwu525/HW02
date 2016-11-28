@@ -10,9 +10,32 @@
 }
 .red{
     background: red;
-    color;#ffffff;
+    color:#fff;
 }
 .gold{
     background: gold;
     
+}
+
+.inner{
+background: navy;
+}
+.box{
+width:60px;
+height:60px;
+border-radius: 50%;
+    text-align: center;
+    font-size: 30px
+}
+.bg1{
+background: orangered;
+}
+.bg2{
+background: limegreen;
+}
+.bg3{
+background: dodgerblue;
+}
+.bg4{
+background: gold;
 }
