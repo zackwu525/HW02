@@ -4,38 +4,67 @@
     text-align: center;
     line-height: 150px;
     font-size: 60px;
-    font-weight: 600;
-    font-family: mayrid;
-    
-}
-.red{
-    background: red;
-    color:#fff;
-}
-.gold{
-    background: gold;
+    font-weight: 900;
+    font-family:helvetica;
     
 }
 
 .inner{
-background: navy;
+background:#FFFF99;
 }
 .box{
-width:60px;
-height:60px;
+width:50px;
+height:50px;
 border-radius: 50%;
     text-align: center;
-    font-size: 30px
+    font-size: 30px;
+    font-weight: 900
+
 }
+
+.h2{
+    color: red
+}
+.h3{
+    font-size: 16px
+}
+
 .bg1{
-background: orangered;
+background: gold;
 }
 .bg2{
-background: limegreen;
+background: gold;
 }
 .bg3{
-background: dodgerblue;
+background: gold;
 }
 .bg4{
 background: gold;
+}
+.bg5{
+    background: gold
+}
+.bg6{
+    background: gold
+}
+.bg7{
+    background: gold
+}
+.bg8{
+    background: gold
+}
+.bg9{
+    background: gold
+}
+.bg10{
+    background: gold
+}
+.bg11{
+    background: gold
+}
+.bg12{
+    background: gold
+}
+.bg13{
+    background: red
 }
